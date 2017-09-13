@@ -4,5 +4,13 @@
 * [GitHub](https://github.com/strapi/strapi)
 
 
-* [Documentation](README.md)
-  * [Coming soon](SOON.md)
+* [Plugins](plugins/README.md)
+  * [Installation](plugins/installation.md)
+  * [Creation](plugins/creation.md)
+  * [Development](plugins/development.md)
+  * [Uninstallation](plugins/uninstallation.md)
+* [Coming soon](SOON.md)
+
+
+* Tutorials
+ * [Coming soon](SOON.md)
